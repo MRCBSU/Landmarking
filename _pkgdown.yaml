@@ -12,7 +12,7 @@ reference:
       - '`add_cv_number`'
       - '`return_ids_with_LOCF`'
       - '`find_LOCF_risk_set`'
-      - '`find_LME_risk_set`'      
+      - '`find_LME_risk_set`'
       - '`fit_LOCF_longitudinal`'
       - '`fit_LME_longitudinal`'
       - '`fit_survival_model`'

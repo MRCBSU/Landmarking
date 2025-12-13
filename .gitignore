@@ -5,3 +5,6 @@ inst/doc/
 /doc/
 /Meta/
 inst/doc
+Landmarking.Rcheck/
+Landmarking*.tar.gz
+Landmarking*.tgz

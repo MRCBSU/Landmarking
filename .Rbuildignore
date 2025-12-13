@@ -10,3 +10,6 @@
 ^\.github$
 ^CRAN-RELEASE$
 ^CRAN-SUBMISSION$
+^Landmarking\.Rcheck$
+^Landmarking.*\.tar\.gz$
+^Landmarking.*\.tgz$
